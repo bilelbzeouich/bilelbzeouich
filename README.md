@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bilelbzeouich
+- 👋 Hi, I’m bilel bzeouich
 - 👀 I’m interested in dev
 - 🌱 I’m currently learning mern
 - 💞️ I’m looking to collaborate on remote
