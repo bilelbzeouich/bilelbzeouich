@@ -2,7 +2,7 @@
 - 👀 I’m interested in dev
 - 🌱 I’m currently learning mern
 - 💞️ I’m looking to collaborate on remote
-- 📫 How to reach me bilelbzeouich3@gmail.com
+- 📫 How to reach me bzeouichbilel6@gmail.com
 
 <!---
 bilelbzeouich/bilelbzeouich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
