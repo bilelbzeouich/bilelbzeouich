@@ -1,7 +1,10 @@
 ![1718375622244](https://github.com/bilelbzeouich/bilelbzeouich/assets/80858599/112623e9-3b91-4eef-ba2f-34ceb2d9549c)
 👀 Interest: Development
+
 💞️ Looking to Collaborate On: Remote projects
+
 📫 Contact:
+
 Email: bzeouichbilel6@gmail.com
 LinkedIn: Bilel Bzeoucih
 <!---
