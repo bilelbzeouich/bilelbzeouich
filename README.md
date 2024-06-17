@@ -1,3 +1,4 @@
+![1718375622244](https://github.com/bilelbzeouich/bilelbzeouich/assets/80858599/112623e9-3b91-4eef-ba2f-34ceb2d9549c)
 - 👋 Hi, I’m bilel bzeouich
 - 👀 I’m interested in dev
 - 🌱 I’m currently learning mern
