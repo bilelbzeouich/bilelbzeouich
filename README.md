@@ -4,7 +4,7 @@ Copier le code
 ## 👀 Interest
 Development
 
-## 💞️ Looking to Collaborate On
+## 👔 Looking to Collaborate On
 Remote projects
 
 ## 📫 Contact
