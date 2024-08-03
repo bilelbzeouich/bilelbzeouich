@@ -4,7 +4,7 @@
 Development
 
 ## 👔 Looking to Collaborate On
-Remote projects
+Remote projects|job
 
 ## 📫 Contact
 - **Email:** bzeouichbilel6@gmail.com
